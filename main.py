@@ -1,0 +1,10 @@
+x = int(input("Enter x value: "))
+y = int(input("Enter y value: "))
+sum = x + y
+minus = x - y
+guda = x * y
+bhag = x / y
+print("Sum = ", sum)
+print("Minus = ", minus)
+print("Bhag = ", bhag)
+print("Guda = ", guda)
